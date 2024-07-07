@@ -75,7 +75,7 @@ fun main() {
     */
 
 
-   // Assignment 1
+ /*  // Assignment 1
     for(i in 1 .. 6) {
         println("IAM GROOT")
     }
@@ -105,6 +105,12 @@ fun main() {
         4 -> println("30 MB")
         5 -> println("30 MB")
         else -> println("No Gifts")
+    }*/
+
+
+    val array = arrayOf(1, 2, 3, 4, 5)
+    for (element in array) {
+        println(element)
     }
 
 
